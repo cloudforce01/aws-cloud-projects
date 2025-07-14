@@ -31,7 +31,7 @@ Before starting, ensure you have:
 
 ## Architecture Diagram
 
-![Architecture Diagram](images\architectural-design\lab-01-architecture.png)
+![Architecture Diagram](images/architectural-design/lab-01-architecture.png)
 *Diagram: EC2 Windows Instance Launch Workflow*
 
 ---
@@ -113,7 +113,7 @@ Before starting, ensure you have:
   - RDP connection established.
   - Instance status checks show **2/2 passed**.
 - **Screenshot:**
-  ![RDP Connection Demo](images\screenshots\lab01-ec2-creation.gif)
+  ![RDP Connection Demo](images/screenshots/lab01-ec2-creation.gif)
   *GIF: Successful RDP connection to Windows EC2 instance.*
 
 ---
